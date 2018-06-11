@@ -1,0 +1,16 @@
+c:\users\damian_legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\bin\Debug\Corralon Loma Blanca.exe.config
+c:\users\damian_legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\bin\Debug\Corralon Loma Blanca.exe
+c:\users\damian_legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\bin\Debug\Corralon Loma Blanca.pdb
+c:\users\damian_legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Debug\Corralon Loma Blanca.csprojResolveAssemblyReference.cache
+c:\users\damian_legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Debug\Corralon_Loma_Blanca.Properties.Resources.resources
+c:\users\damian_legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Debug\Corralon Loma Blanca.csproj.GenerateResource.cache
+c:\users\damian_legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Debug\Corralon Loma Blanca.csproj.CoreCompileInputs.cache
+c:\users\damian_legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Debug\Corralon Loma Blanca.exe
+c:\users\damian_legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Debug\Corralon Loma Blanca.pdb
+c:\users\damian_legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Debug\Corralon_Loma_Blanca.FRMprincipal.resources
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Debug\Corralon_Loma_Blanca.Productos.resources
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Debug\Corralon_Loma_Blanca.Ventas.resources
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Debug\Corralon_Loma_Blanca.Clientes.resources
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Debug\Corralon_Loma_Blanca.Proveedores.resources
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Debug\Corralon_Loma_Blanca.Empleados.resources
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Debug\Corralon_Loma_Blanca.ABM_PRODUCTO.resources
