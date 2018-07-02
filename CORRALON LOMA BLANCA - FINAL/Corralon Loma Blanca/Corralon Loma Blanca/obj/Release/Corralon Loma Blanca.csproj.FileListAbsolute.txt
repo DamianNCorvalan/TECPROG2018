@@ -1,0 +1,16 @@
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\bin\Release\Corralon Loma Blanca.exe.config
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\bin\Release\Corralon Loma Blanca.exe
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\bin\Release\Corralon Loma Blanca.pdb
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Release\Corralon Loma Blanca.csprojResolveAssemblyReference.cache
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Release\Corralon_Loma_Blanca.ABM_PRODUCTO.resources
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Release\Corralon_Loma_Blanca.Clientes.resources
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Release\Corralon_Loma_Blanca.Empleados.resources
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Release\Corralon_Loma_Blanca.FRMprincipal.resources
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Release\Corralon_Loma_Blanca.Productos.resources
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Release\Corralon_Loma_Blanca.Properties.Resources.resources
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Release\Corralon_Loma_Blanca.Proveedores.resources
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Release\Corralon_Loma_Blanca.Ventas.resources
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Release\Corralon Loma Blanca.csproj.GenerateResource.cache
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Release\Corralon Loma Blanca.csproj.CoreCompileInputs.cache
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Release\Corralon Loma Blanca.exe
+C:\Users\Damian_Legacy\source\repos\Corralon Loma Blanca\Corralon Loma Blanca\obj\Release\Corralon Loma Blanca.pdb
